@@ -1,2 +1,2 @@
 # OpenWebUI_APP
-这是一个由网页转APP模版制作的APP，它接入了在下部署的OpenWebUI项目的网址，以使各位更方便地在安卓设备上访问在下部署的OpenWebUI
+这是一个由网页转APP模版制作的APP，它接入了在下部署的OpenWebUI项目的网址，以使各位更方便地在安卓设备上访问本人部署的OpenWebUI

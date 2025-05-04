@@ -1,1 +1,2 @@
 # OpenWebUI_APP
+这是一个由网页转APP模版制作的APP，它接入了我个人部署的OpenWebUI项目的网址，这样可以更方便地在手机上使用访问我的OpenWebUI
